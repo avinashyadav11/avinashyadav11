@@ -1,4 +1,8 @@
 ### Hi there 👋
+- I’m Avinash Yadav.
+- 👀 I’m interested in Data.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 You can reach me @avinet1995@gmail.com
 
 <!--
 **avinashyadav11/avinashyadav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
